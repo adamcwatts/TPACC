@@ -1,0 +1,4 @@
+	Mean Maximum Plate Heat Flux [W/m^2]	Standard Deviation Plate Heat Flux [W/m^2]	Coefficient of Variation of Plate Heat Flux [%]	Mean Average Plate Heat Flux [W/m^2]	Mean Total Plate Energy [J/m^2]	Standard Deviation Plate Energy [J/m^2]	Coefficient of Variation of Plate Energy [%]	Replicates (n)
+D200	962.8833	78.103	8.1114	129.5655	19736.2683	3622.2691	18.3534	6
+D200 + Thermal Liner	373.44	30.5827	8.1895	77.123	20752.3167	2466.1244	11.8836	5
+PVC	1141.3667	183.0805	16.0405	168.664	39695.5485	4037.1667	10.1703	6
