@@ -1,4 +1,4 @@
-# Data Analyis example form my research at the Thermal Protection and Comfort Center (TPACC)
+# Data Analyis example from my research at the Thermal Protection and Comfort Center (TPACC)
 # 
 ### [Example 1](https://nbviewer.jupyter.org/github/adamcwatts/TPACC/blob/master/Data_Analysis.ipynb): Measuring and Analyzing the thermal performance properties of three fabric types.
   The three fabrics were a D200 fabric, a D200 material with the
