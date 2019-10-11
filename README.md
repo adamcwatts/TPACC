@@ -9,5 +9,5 @@
   Dry ice was placed on top of the fabric for 5 seconds before being taken off and returned to a
   designated cooler. Experiments were terminated when the fabric and hot plate returned to steady state or close to. 
   
-  [logo]: https://github.com/adamcwatts/TPACC/blob/master/Dry_Ice_block.jpg "Experiment Setup"
+  ![alt text](https://github.com/adamcwatts/TPACC/blob/master/Dry_Ice_block.jpg "Experiment Setup")
 
